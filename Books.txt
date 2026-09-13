@@ -1,0 +1,13 @@
+\&How to program C&\ \&Deitel & Deitel&\ 2023 4 0131118811 1
+\&How to program C&\ \&Deitel & Deitel&\ 2023 4 0131118811 2
+\&How to program C&\ \&Deitel & Deitel&\ 2024 5 0131971093 1
+\&How to program C&\ \&Deitel & Deitel&\ 2024 5 0131971093 2 495713003
+\&How to program C&\ \&Deitel & Deitel&\ 2024 5 0131971093 3 495713002
+\&How to program C&\ \&Deitel & Deitel&\ 2024 6 9780132427012 1
+\&DATA STRUCTURES with C Using STL&\ \&William Ford & William Topp&\ 2022 2 0130858501 1 495713003
+\&DATA MINING: CONCEPTS, MODELS, METHODS, AND ALGORITHMS&\ \&MEHMED KANTARDZIC&\ 2023 1 0471228524 1 495713002
+\&Introduction to Business Data Mining&\ \&David Olson & Yong Shi&\ 2022 1 0071244700 1 495713002
+\&Introduction to Business Data Mining&\ \&David Olson & Yong Shi&\ 2022 1 0071244700 2 495713005
+\&資訊管理&\ \&陳文賢&\ 2022 1 9574831353 1 495713004
+\&資訊管理&\ \&陳文賢&\ 2022 1 9574831353 2
+\&程式設計實務與應用with C&\ \&胡昭民&\ 2017 1 9789862010723 1 495713004
