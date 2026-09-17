@@ -50,26 +50,7 @@ Project2/
 ├── Books.txt                  # 啟動時載入的圖書與複本資料
 ├── Students.txt               # 啟動時載入的學生帳號與借閱資料
 ```
-
-## 5. 安裝與快速開始（Installation & Quick Start）
-
-本專案只需具備可編譯 C 語言的編譯器（例如 GCC）。
-
-1. 複製專案至本機。上傳 GitHub 後，請將下列 `<repository-url>` 替換為實際儲存庫網址：
-   ```powershell
-   git clone <repository-url>
-   cd Project2
-   ```
-   
-2. 確認 `Books.txt` 與 `Students.txt` 位於目前目錄。
-3. 使用 GCC 編譯並執行 `Final.c`：
-
-   ```powershell
-   gcc Final.c -o LibraryManagement.exe
-   .\LibraryManagement.exe
-   ```
-
-## 6. 使用範例（Usage / Examples）
+## 5. 使用範例（Usage / Examples）
 
 程式啟動後會讀取資料檔，接著等待使用者輸入下列單一字母指令：
 
@@ -103,7 +84,7 @@ B
 1
 ```
 
-## 7. 限制與注意事項（Limitations / Notes）
+## 6. 限制與注意事項（Limitations / Notes）
 
 - 圖書與學生資料以固定大小陣列管理，程式常數分別限制為最多 50 筆圖書與 50 位學生。
 - 每位學生最多可同時借閱 3 本圖書。
