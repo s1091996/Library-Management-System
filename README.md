@@ -1,4 +1,3 @@
-#Library Management System
 
 ## 1. 專案名稱與簡介（Project Title & Overview）
 
