@@ -51,8 +51,6 @@ Project2/
 ├── Students.txt               # 啟動時載入的學生帳號與借閱資料
 ```
 
-`Project2.vcxproj` 目前僅將 `Final.c` 列為編譯來源。執行時，`Books.txt` 與 `Students.txt` 必須位於工作目錄，因為程式以固定檔名開啟它們。
-
 ## 5. 安裝與快速開始（Installation & Quick Start）
 
 本專案只需具備可編譯 C 語言的編譯器（例如 GCC）。
